@@ -1,0 +1,8 @@
+board-state.json
+board-state.tmp
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+*.log
